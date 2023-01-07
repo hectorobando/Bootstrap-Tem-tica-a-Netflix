@@ -1,0 +1,82 @@
+.body{
+    background-color: black;
+}
+
+.titulo-netflix{
+    color:red; 
+    font-size: 60px; 
+    font-family: Kanit; 
+    text-align: center;
+}
+.subtitulo,.otras-series{
+    color: gainsboro;
+    text-align: center; 
+    background-color: #000000; 
+    font-family: kanit; 
+    font-size: 22px;
+}
+.etiqueta{
+    color: gainsboro;
+    text-align: left; 
+    background-color: #000000; 
+    font-family: kanit; 
+    font-size: 14px;
+}
+.roja{
+    color:red; 
+    font-size:22px;
+}
+
+.carousel-imgs{
+    width:100% !important;
+    height: 600px !important;
+}
+
+.thumbnail{
+    background-color: #000000 !important;
+    border-color: red !important;
+}
+
+.imagenes{
+    width:100%;
+}
+
+.parrafo{
+    color:gray;
+}
+
+.embed-responsive-item{
+    width:100%;
+    height:600px;
+}
+
+.sub-grande{
+    color:red; 
+    font-size:38px;
+}
+
+.button-button3{
+    text-align: center; 
+    background-color: #000;
+    border: none;
+    font-family: Kanit; 
+    color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: hand;
+}
+
+#collapse1, #collapse2, #collapse3{
+    text-align: center !important;
+}
+
+.pie-pagina{
+    color:red; 
+    font-size: 25px; 
+    font-family: Heebo; 
+    text-align: center;
+}
