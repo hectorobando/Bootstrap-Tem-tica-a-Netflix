@@ -1,12 +1,10 @@
 # Bootstrap temática a Netflix
 
+## 🌐 Medios Sociales / Contactos:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hector.obando.7370) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/hector.obando.7370) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hector-obando/)
 
 # 💫 Sobre Hector Obando:
-🔭 Estoy en desarrollo de CPanel con PHP, JS y MySQL.<br>👯 He colaborado con equipo de trabajo universitario.<br>🤝 Busco ir más allá de expectativas.<br>🌱 Conocimiento de otros frameworks.<br>💬 Contactame.
-
-
-## 🌐 Medios Sociales / Contactos:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hector.obando.7370) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/hector.obando.7370) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hector-obando/) 
+🔭 Estoy en desarrollo de CPanel con PHP, JS y MySQL.<br>👯 He colaborado con equipo de trabajo universitario.<br>🤝 Busco ir más allá de expectativas.<br>🌱 Conocimiento de otros frameworks.<br>💬 Contactame. 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hectorobando&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -29,4 +27,4 @@ Página web en el que se implementa BOOTSTRAP en linea mediante cdn, este proyec
 ![bootstrap](https://user-images.githubusercontent.com/115439711/211133281-b02f681a-b13d-4d3a-8d2d-0c2f0f18d234.png)
 ![bootstrap2](https://user-images.githubusercontent.com/115439711/211133335-99c99572-2ff3-4fc7-ad59-f05324c100f0.png)
 ![bootstrap3](https://user-images.githubusercontent.com/115439711/211133374-cbbf125e-5ac8-4da7-9076-56a8dd990c50.png)
-Espero haya gustado mi trabajo, CONTACTAME!.
+Espero haya gustado mi trabajo, ARRIBA ESTA MI CONTACTO.
